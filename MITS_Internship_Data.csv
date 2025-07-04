@@ -1,0 +1,301 @@
+Student_ID,Name,Department,Year,Domain,Application_Date,Participation_Status
+MITS0001,Allison,ME,3rd,IoT,2025-07-01,Applied
+MITS0002,Dustin,EEE,2nd,Data Science,2025-03-19,Completed
+MITS0003,John,IT,4th,Data Science,2025-07-03,Completed
+MITS0004,Susan,EEE,2nd,AI/ML,2025-06-12,Applied
+MITS0005,Joseph,EEE,2nd,AI/ML,2025-05-30,Rejected
+MITS0006,Jeffrey,ECE,3rd,App Development,2025-03-25,Completed
+MITS0007,Julie,IT,3rd,App Development,2025-02-25,Applied
+MITS0008,Kimberly,IT,3rd,Web Development,2025-03-30,In Progress
+MITS0009,Douglas,IT,3rd,Blockchain,2025-01-20,In Progress
+MITS0010,David,EEE,3rd,HR,2025-06-15,Applied
+MITS0011,Lori,ME,4th,AI/ML,2025-07-01,Applied
+MITS0012,Melissa,IT,2nd,Cloud Computing,2025-05-31,In Progress
+MITS0013,David,CIVIL,2nd,Blockchain,2025-06-07,Completed
+MITS0014,Katherine,EEE,2nd,Blockchain,2025-06-14,Applied
+MITS0015,Robert,ECE,2nd,AI/ML,2025-04-26,Completed
+MITS0016,Norma,ME,3rd,HR,2025-02-18,Rejected
+MITS0017,Bruce,CIVIL,2nd,Data Science,2025-03-07,Completed
+MITS0018,Elaine,CIVIL,4th,IoT,2025-06-07,Completed
+MITS0019,Lindsay,ECE,4th,Blockchain,2025-01-29,Rejected
+MITS0020,Sherry,ME,2nd,IoT,2025-02-28,Applied
+MITS0021,Jason,EEE,2nd,Digital Marketing,2025-05-21,Applied
+MITS0022,James,CSE,4th,Digital Marketing,2025-05-02,Completed
+MITS0023,Christina,ME,4th,Digital Marketing,2025-06-19,In Progress
+MITS0024,Chad,ECE,3rd,Cybersecurity,2025-03-27,Applied
+MITS0025,John,CIVIL,4th,Web Development,2025-01-05,Completed
+MITS0026,Xavier,EEE,3rd,Cybersecurity,2025-06-19,Completed
+MITS0027,Marc,ME,3rd,Cloud Computing,2025-01-31,Applied
+MITS0028,Melissa,CSE,3rd,AI/ML,2025-02-11,Completed
+MITS0029,Carol,CSE,3rd,Data Science,2025-02-09,Rejected
+MITS0030,Marie,IT,3rd,Web Development,2025-01-12,Completed
+MITS0031,Brian,IT,2nd,App Development,2025-02-07,Completed
+MITS0032,Kirk,ECE,4th,Digital Marketing,2025-04-21,Applied
+MITS0033,Marvin,ME,3rd,Cloud Computing,2025-03-27,Completed
+MITS0034,Cassandra,ME,4th,Web Development,2025-05-10,Applied
+MITS0035,Charles,CIVIL,4th,Cloud Computing,2025-05-07,Applied
+MITS0036,Lindsay,CIVIL,3rd,App Development,2025-05-18,Completed
+MITS0037,Rebecca,CIVIL,2nd,Cybersecurity,2025-02-17,Applied
+MITS0038,Travis,IT,3rd,IoT,2025-05-13,Applied
+MITS0039,Micheal,ME,2nd,Data Science,2025-07-02,Completed
+MITS0040,Anne,ME,4th,Cybersecurity,2025-03-21,Applied
+MITS0041,Cynthia,CSE,2nd,IoT,2025-06-07,Applied
+MITS0042,James,IT,2nd,Web Development,2025-06-18,Completed
+MITS0043,Rodney,EEE,2nd,Cybersecurity,2025-03-02,Completed
+MITS0044,David,IT,4th,Data Science,2025-01-04,Applied
+MITS0045,Amanda,EEE,4th,Web Development,2025-01-26,Rejected
+MITS0046,Lisa,CSE,2nd,Cybersecurity,2025-06-02,Applied
+MITS0047,Andrew,ECE,2nd,App Development,2025-01-14,Completed
+MITS0048,Andrea,ME,3rd,HR,2025-04-06,Completed
+MITS0049,Robert,CSE,2nd,HR,2025-02-19,In Progress
+MITS0050,John,ME,3rd,Digital Marketing,2025-03-05,Completed
+MITS0051,Sara,CIVIL,2nd,HR,2025-07-02,Completed
+MITS0052,Hannah,ECE,3rd,IoT,2025-01-30,Completed
+MITS0053,Ashley,ECE,4th,Web Development,2025-05-29,Applied
+MITS0054,John,CSE,2nd,Cybersecurity,2025-04-21,Applied
+MITS0055,Amanda,ECE,2nd,Data Science,2025-02-22,Completed
+MITS0056,Nathan,EEE,2nd,AI/ML,2025-01-24,Applied
+MITS0057,Jennifer,ECE,2nd,Data Science,2025-04-24,Completed
+MITS0058,Dustin,ME,3rd,Data Science,2025-01-20,Applied
+MITS0059,Katie,ME,2nd,Digital Marketing,2025-05-23,Completed
+MITS0060,Charles,ME,4th,Blockchain,2025-06-27,Applied
+MITS0061,Rachel,ME,4th,App Development,2025-02-27,Applied
+MITS0062,Kathleen,EEE,2nd,Web Development,2025-02-10,Completed
+MITS0063,Anthony,IT,4th,AI/ML,2025-05-21,Completed
+MITS0064,John,CIVIL,2nd,Cloud Computing,2025-06-06,Completed
+MITS0065,Emma,CSE,2nd,Cloud Computing,2025-03-16,Applied
+MITS0066,Brad,ME,4th,Web Development,2025-02-25,Applied
+MITS0067,Jennifer,ECE,2nd,IoT,2025-02-06,Completed
+MITS0068,Nicole,ME,4th,AI/ML,2025-01-21,Applied
+MITS0069,Matthew,ECE,3rd,AI/ML,2025-03-12,Completed
+MITS0070,Joshua,CIVIL,2nd,Web Development,2025-06-19,Completed
+MITS0071,Alexander,CIVIL,3rd,Web Development,2025-01-03,Completed
+MITS0072,Emily,CIVIL,4th,Blockchain,2025-04-05,Completed
+MITS0073,William,ECE,3rd,IoT,2025-05-14,Rejected
+MITS0074,Scott,ME,3rd,Cybersecurity,2025-03-25,In Progress
+MITS0075,Patrick,CIVIL,4th,HR,2025-04-27,Applied
+MITS0076,Evelyn,EEE,3rd,Cloud Computing,2025-02-01,Applied
+MITS0077,Monica,ECE,3rd,Blockchain,2025-04-25,Applied
+MITS0078,Erin,ECE,4th,AI/ML,2025-05-03,Applied
+MITS0079,Kristin,ME,3rd,Cybersecurity,2025-06-01,Completed
+MITS0080,Austin,ECE,4th,AI/ML,2025-03-09,In Progress
+MITS0081,Catherine,ECE,3rd,Cybersecurity,2025-05-07,Applied
+MITS0082,Carolyn,CIVIL,4th,AI/ML,2025-01-26,Applied
+MITS0083,Brett,ME,4th,App Development,2025-03-16,Applied
+MITS0084,Christine,CIVIL,3rd,Cybersecurity,2025-05-20,Completed
+MITS0085,Stephanie,CIVIL,3rd,Web Development,2025-06-05,Completed
+MITS0086,Joanne,ME,3rd,Web Development,2025-01-20,Applied
+MITS0087,Courtney,CSE,2nd,Cybersecurity,2025-03-29,In Progress
+MITS0088,Daniel,CIVIL,2nd,Web Development,2025-05-14,Completed
+MITS0089,Diana,EEE,2nd,Data Science,2025-05-03,Applied
+MITS0090,April,EEE,4th,AI/ML,2025-03-23,Completed
+MITS0091,Tara,ECE,3rd,Web Development,2025-05-19,Completed
+MITS0092,Brittany,EEE,4th,Cybersecurity,2025-03-20,Applied
+MITS0093,Carol,ECE,2nd,App Development,2025-01-28,Applied
+MITS0094,Mark,CSE,3rd,Web Development,2025-05-08,Applied
+MITS0095,Christopher,ME,4th,AI/ML,2025-05-28,Applied
+MITS0096,Robert,ME,3rd,AI/ML,2025-02-22,Rejected
+MITS0097,Nicole,ME,4th,Blockchain,2025-06-20,In Progress
+MITS0098,Michael,EEE,3rd,Cybersecurity,2025-04-01,Applied
+MITS0099,Janice,CSE,2nd,App Development,2025-05-09,Applied
+MITS0100,Matthew,EEE,2nd,Cloud Computing,2025-01-24,Applied
+MITS0101,Diane,EEE,3rd,AI/ML,2025-06-23,Applied
+MITS0102,Holly,CSE,4th,Cloud Computing,2025-01-31,Rejected
+MITS0103,Patrick,CSE,2nd,App Development,2025-05-07,Applied
+MITS0104,Molly,CSE,2nd,AI/ML,2025-02-20,Applied
+MITS0105,Calvin,CSE,2nd,Cybersecurity,2025-03-19,Applied
+MITS0106,William,ME,3rd,HR,2025-02-02,Completed
+MITS0107,Ruth,IT,3rd,Data Science,2025-03-03,Applied
+MITS0108,Karen,IT,4th,Blockchain,2025-06-01,Completed
+MITS0109,Michael,CSE,4th,Cybersecurity,2025-03-02,Applied
+MITS0110,Jordan,IT,4th,HR,2025-03-17,Completed
+MITS0111,Alexandra,IT,3rd,Cybersecurity,2025-01-27,Completed
+MITS0112,Timothy,CSE,3rd,Digital Marketing,2025-06-21,Applied
+MITS0113,Debbie,IT,4th,App Development,2025-01-31,Applied
+MITS0114,Rhonda,EEE,4th,AI/ML,2025-04-07,Rejected
+MITS0115,Ashley,ECE,3rd,AI/ML,2025-06-09,In Progress
+MITS0116,Adam,ECE,4th,AI/ML,2025-06-14,Applied
+MITS0117,Brian,CSE,2nd,AI/ML,2025-03-24,Applied
+MITS0118,Angela,ME,3rd,AI/ML,2025-03-08,In Progress
+MITS0119,William,CSE,4th,IoT,2025-03-21,Completed
+MITS0120,Catherine,ME,3rd,Data Science,2025-04-20,Applied
+MITS0121,Gregory,ECE,2nd,HR,2025-05-15,In Progress
+MITS0122,Hunter,CSE,3rd,Cloud Computing,2025-05-08,Applied
+MITS0123,Susan,CIVIL,3rd,App Development,2025-01-08,Completed
+MITS0124,Michelle,EEE,3rd,IoT,2025-01-16,Applied
+MITS0125,Wendy,IT,3rd,HR,2025-04-02,Applied
+MITS0126,Jonathan,ME,2nd,Cybersecurity,2025-03-13,Applied
+MITS0127,Amber,CIVIL,3rd,Web Development,2025-01-08,Completed
+MITS0128,Scott,IT,3rd,Web Development,2025-06-17,Applied
+MITS0129,Nicole,IT,4th,Web Development,2025-01-07,Applied
+MITS0130,Monica,CSE,3rd,Web Development,2025-06-27,Applied
+MITS0131,Jasmine,IT,4th,Web Development,2025-01-05,Completed
+MITS0132,Juan,EEE,2nd,Cloud Computing,2025-03-18,In Progress
+MITS0133,Ronnie,CIVIL,2nd,HR,2025-02-12,Applied
+MITS0134,William,IT,2nd,AI/ML,2025-02-13,Completed
+MITS0135,Brianna,CSE,2nd,Web Development,2025-03-28,Rejected
+MITS0136,Thomas,EEE,4th,AI/ML,2025-02-05,Completed
+MITS0137,Antonio,ECE,3rd,Data Science,2025-05-05,Applied
+MITS0138,Jennifer,CIVIL,2nd,Data Science,2025-04-26,Applied
+MITS0139,Sean,IT,3rd,Digital Marketing,2025-03-27,Applied
+MITS0140,Paul,CSE,4th,Web Development,2025-01-02,Applied
+MITS0141,Joshua,ECE,4th,Digital Marketing,2025-01-13,Applied
+MITS0142,Carrie,ECE,4th,Blockchain,2025-06-25,Completed
+MITS0143,Chelsey,ME,2nd,AI/ML,2025-02-03,Applied
+MITS0144,Jacob,EEE,3rd,HR,2025-03-10,Applied
+MITS0145,Leslie,IT,3rd,App Development,2025-05-31,Completed
+MITS0146,Cheryl,CSE,3rd,Data Science,2025-01-28,Applied
+MITS0147,Robert,ME,4th,Cybersecurity,2025-04-20,Rejected
+MITS0148,Tonya,EEE,2nd,HR,2025-02-07,Completed
+MITS0149,Anthony,ME,4th,App Development,2025-03-24,Applied
+MITS0150,Edward,CIVIL,4th,Digital Marketing,2025-04-22,Completed
+MITS0151,Julia,EEE,3rd,Cloud Computing,2025-05-08,Completed
+MITS0152,Jennifer,EEE,4th,App Development,2025-02-14,Completed
+MITS0153,Robert,IT,3rd,Blockchain,2025-02-23,Applied
+MITS0154,Michael,EEE,2nd,App Development,2025-04-23,Applied
+MITS0155,Chris,ME,3rd,App Development,2025-06-09,Completed
+MITS0156,Joseph,EEE,2nd,App Development,2025-04-15,Applied
+MITS0157,Eric,IT,3rd,AI/ML,2025-05-18,Applied
+MITS0158,Kim,IT,4th,IoT,2025-03-11,Applied
+MITS0159,Nathan,CIVIL,4th,Data Science,2025-03-31,Completed
+MITS0160,Jessica,ME,2nd,Data Science,2025-03-22,Applied
+MITS0161,Chad,ECE,2nd,Cloud Computing,2025-03-31,Rejected
+MITS0162,Angela,ECE,2nd,Web Development,2025-05-01,Completed
+MITS0163,Chad,EEE,3rd,Data Science,2025-04-11,Rejected
+MITS0164,Dawn,CIVIL,3rd,IoT,2025-03-12,In Progress
+MITS0165,Justin,CSE,2nd,HR,2025-04-23,Rejected
+MITS0166,Maxwell,EEE,4th,Data Science,2025-03-04,Rejected
+MITS0167,Justin,CIVIL,3rd,Digital Marketing,2025-05-24,Applied
+MITS0168,Edwin,ME,3rd,HR,2025-05-03,Completed
+MITS0169,Tyler,ME,3rd,AI/ML,2025-03-03,Applied
+MITS0170,Julie,ME,2nd,AI/ML,2025-03-19,Applied
+MITS0171,David,ME,2nd,App Development,2025-05-02,Completed
+MITS0172,Robert,ME,2nd,Cybersecurity,2025-01-16,Completed
+MITS0173,Jacob,CIVIL,2nd,Web Development,2025-05-27,Applied
+MITS0174,Matthew,CIVIL,2nd,App Development,2025-04-24,Completed
+MITS0175,Andrew,IT,4th,Cybersecurity,2025-03-07,Rejected
+MITS0176,Deborah,ECE,4th,Data Science,2025-05-23,Completed
+MITS0177,John,ME,2nd,Data Science,2025-02-16,Completed
+MITS0178,David,CSE,3rd,App Development,2025-04-08,Rejected
+MITS0179,William,CIVIL,2nd,Cybersecurity,2025-01-08,In Progress
+MITS0180,Dawn,CSE,4th,IoT,2025-04-08,Completed
+MITS0181,Sonya,CSE,4th,Web Development,2025-02-12,Rejected
+MITS0182,Brittany,CSE,3rd,IoT,2025-02-14,In Progress
+MITS0183,Kevin,IT,4th,Cybersecurity,2025-01-06,In Progress
+MITS0184,Michelle,CIVIL,2nd,Cloud Computing,2025-05-05,Applied
+MITS0185,Jennifer,CSE,3rd,Data Science,2025-05-04,Applied
+MITS0186,Patricia,ME,2nd,Blockchain,2025-05-13,Applied
+MITS0187,Rebecca,EEE,2nd,App Development,2025-02-01,Applied
+MITS0188,Leslie,CSE,3rd,Web Development,2025-05-01,Completed
+MITS0189,Christina,IT,2nd,Digital Marketing,2025-02-07,Completed
+MITS0190,Sandra,CIVIL,4th,Cybersecurity,2025-02-04,Rejected
+MITS0191,Aaron,IT,2nd,Cybersecurity,2025-06-09,Applied
+MITS0192,Gregory,CSE,3rd,AI/ML,2025-03-15,Rejected
+MITS0193,Ashley,CIVIL,3rd,Data Science,2025-01-17,Completed
+MITS0194,Lisa,EEE,3rd,Data Science,2025-05-04,Completed
+MITS0195,Robin,CSE,2nd,Cybersecurity,2025-04-09,In Progress
+MITS0196,Paula,IT,3rd,Cloud Computing,2025-05-06,Completed
+MITS0197,Elizabeth,ECE,3rd,AI/ML,2025-06-25,Applied
+MITS0198,James,ME,2nd,Cybersecurity,2025-05-04,Rejected
+MITS0199,Jennifer,IT,4th,Web Development,2025-03-19,Applied
+MITS0200,Katherine,CIVIL,2nd,AI/ML,2025-02-12,Applied
+MITS0201,Marvin,CSE,3rd,Data Science,2025-05-31,Rejected
+MITS0202,Jonathan,ME,3rd,IoT,2025-04-07,Applied
+MITS0203,Nicole,CSE,2nd,Data Science,2025-03-12,Completed
+MITS0204,Amy,CIVIL,4th,AI/ML,2025-04-11,Applied
+MITS0205,William,CSE,3rd,Cybersecurity,2025-04-26,Rejected
+MITS0206,Kelly,ECE,3rd,AI/ML,2025-06-24,Applied
+MITS0207,Maurice,ME,3rd,Digital Marketing,2025-04-25,In Progress
+MITS0208,Jennifer,ME,2nd,AI/ML,2025-03-04,Completed
+MITS0209,Brandy,CIVIL,3rd,App Development,2025-04-28,Applied
+MITS0210,Thomas,ECE,4th,Blockchain,2025-04-23,Completed
+MITS0211,Alexis,IT,3rd,Data Science,2025-06-09,In Progress
+MITS0212,Russell,CSE,3rd,Cloud Computing,2025-06-03,Applied
+MITS0213,Ray,EEE,4th,Web Development,2025-03-19,Applied
+MITS0214,Maureen,CSE,3rd,HR,2025-03-29,Applied
+MITS0215,Justin,CSE,2nd,Data Science,2025-05-08,Completed
+MITS0216,Roger,IT,2nd,IoT,2025-01-28,Completed
+MITS0217,Theresa,CSE,2nd,AI/ML,2025-05-15,Completed
+MITS0218,Beverly,ECE,4th,AI/ML,2025-06-23,Applied
+MITS0219,Jeffrey,ECE,3rd,AI/ML,2025-01-23,Applied
+MITS0220,Kyle,ME,2nd,IoT,2025-06-05,Completed
+MITS0221,David,CIVIL,4th,Digital Marketing,2025-06-14,Applied
+MITS0222,Jeff,EEE,3rd,HR,2025-02-26,Applied
+MITS0223,Kathy,CSE,4th,AI/ML,2025-01-29,In Progress
+MITS0224,Michael,CSE,2nd,Digital Marketing,2025-06-17,Completed
+MITS0225,Justin,IT,2nd,Cybersecurity,2025-02-23,Completed
+MITS0226,Cynthia,CIVIL,2nd,Cybersecurity,2025-04-11,Rejected
+MITS0227,Daniel,ECE,4th,AI/ML,2025-02-04,Completed
+MITS0228,Amy,EEE,4th,HR,2025-05-29,Rejected
+MITS0229,Gabrielle,ME,2nd,Web Development,2025-04-11,Applied
+MITS0230,Christine,ECE,4th,App Development,2025-01-14,Applied
+MITS0231,Tara,CIVIL,2nd,Digital Marketing,2025-03-26,Applied
+MITS0232,Tracy,ME,2nd,AI/ML,2025-01-23,Applied
+MITS0233,Roger,IT,3rd,Data Science,2025-05-22,Completed
+MITS0234,Jacob,IT,4th,Web Development,2025-04-24,Applied
+MITS0235,James,CSE,2nd,Cybersecurity,2025-02-27,Applied
+MITS0236,Sharon,CIVIL,2nd,Data Science,2025-06-26,Applied
+MITS0237,James,EEE,4th,Cybersecurity,2025-06-22,Applied
+MITS0238,Christy,ME,3rd,App Development,2025-05-16,Completed
+MITS0239,Alison,ECE,3rd,Data Science,2025-04-21,Applied
+MITS0240,Samantha,CIVIL,2nd,App Development,2025-02-05,Completed
+MITS0241,Michael,CIVIL,4th,HR,2025-03-03,Applied
+MITS0242,Eric,IT,3rd,App Development,2025-05-22,Completed
+MITS0243,Ricky,CSE,4th,App Development,2025-03-01,Rejected
+MITS0244,Tom,CSE,4th,App Development,2025-01-12,Applied
+MITS0245,Christy,ME,2nd,Cybersecurity,2025-02-13,Completed
+MITS0246,Holly,IT,3rd,Cybersecurity,2025-06-22,Applied
+MITS0247,Joseph,CIVIL,2nd,Cloud Computing,2025-04-07,Applied
+MITS0248,Kendra,EEE,3rd,App Development,2025-03-04,In Progress
+MITS0249,Jerome,IT,3rd,Web Development,2025-03-28,Applied
+MITS0250,Danielle,ME,3rd,Data Science,2025-05-10,Applied
+MITS0251,Robert,ME,3rd,Cybersecurity,2025-04-17,Completed
+MITS0252,Alicia,IT,3rd,Cloud Computing,2025-01-28,Applied
+MITS0253,Scott,ME,4th,AI/ML,2025-02-12,Rejected
+MITS0254,Dennis,IT,2nd,Web Development,2025-05-03,Applied
+MITS0255,Mary,ECE,4th,Cybersecurity,2025-04-07,In Progress
+MITS0256,Philip,IT,3rd,Data Science,2025-03-16,Completed
+MITS0257,Jennifer,IT,2nd,Digital Marketing,2025-03-12,Completed
+MITS0258,David,ME,3rd,AI/ML,2025-05-28,In Progress
+MITS0259,Kristina,ME,2nd,Digital Marketing,2025-05-29,Applied
+MITS0260,Stephen,CSE,4th,AI/ML,2025-01-11,In Progress
+MITS0261,Matthew,CSE,2nd,Digital Marketing,2025-02-24,Applied
+MITS0262,Mary,ECE,2nd,AI/ML,2025-05-06,Applied
+MITS0263,Peter,CSE,2nd,AI/ML,2025-01-12,Applied
+MITS0264,Gloria,IT,2nd,IoT,2025-06-12,Completed
+MITS0265,Kathleen,ME,2nd,Blockchain,2025-05-02,Applied
+MITS0266,Veronica,CSE,3rd,Cloud Computing,2025-05-10,Rejected
+MITS0267,Valerie,CSE,2nd,App Development,2025-01-22,Rejected
+MITS0268,Roy,ECE,2nd,Cloud Computing,2025-02-22,In Progress
+MITS0269,Stephanie,CIVIL,4th,AI/ML,2025-07-03,Applied
+MITS0270,Tracey,ECE,2nd,Blockchain,2025-02-21,Completed
+MITS0271,Brandon,IT,4th,Data Science,2025-05-19,Applied
+MITS0272,Noah,ME,3rd,IoT,2025-01-21,Applied
+MITS0273,Vincent,ECE,2nd,Digital Marketing,2025-05-26,Applied
+MITS0274,Joe,CSE,4th,IoT,2025-06-13,Applied
+MITS0275,Jeffrey,ME,4th,Data Science,2025-02-20,Completed
+MITS0276,Thomas,ME,3rd,Data Science,2025-01-28,Completed
+MITS0277,Justin,CSE,2nd,Digital Marketing,2025-06-18,Applied
+MITS0278,Robin,ECE,2nd,Web Development,2025-01-31,Applied
+MITS0279,Ryan,CSE,4th,Blockchain,2025-01-08,Applied
+MITS0280,Lori,CIVIL,2nd,IoT,2025-06-12,Applied
+MITS0281,Greg,ME,4th,Web Development,2025-03-20,In Progress
+MITS0282,Kimberly,EEE,2nd,HR,2025-02-21,Applied
+MITS0283,Daniel,EEE,4th,Data Science,2025-04-17,Applied
+MITS0284,Bobby,IT,2nd,IoT,2025-03-14,Applied
+MITS0285,Norman,CSE,3rd,HR,2025-03-16,Rejected
+MITS0286,Michelle,CSE,2nd,AI/ML,2025-05-06,In Progress
+MITS0287,Melissa,IT,2nd,Data Science,2025-02-19,Completed
+MITS0288,John,IT,3rd,Cloud Computing,2025-02-21,Completed
+MITS0289,Andrew,IT,2nd,Web Development,2025-04-14,Completed
+MITS0290,Christopher,ME,3rd,App Development,2025-03-10,Applied
+MITS0291,Reginald,CIVIL,2nd,Cybersecurity,2025-03-03,In Progress
+MITS0292,Erin,CSE,4th,Data Science,2025-03-26,Completed
+MITS0293,Matthew,ME,4th,Data Science,2025-01-10,Completed
+MITS0294,Kathleen,IT,2nd,Data Science,2025-05-29,Completed
+MITS0295,Dylan,CSE,2nd,Web Development,2025-06-17,Completed
+MITS0296,Jacob,ME,2nd,IoT,2025-01-10,Completed
+MITS0297,Erica,CIVIL,4th,AI/ML,2025-06-12,In Progress
+MITS0298,Aaron,ME,2nd,AI/ML,2025-02-25,In Progress
+MITS0299,Carrie,CIVIL,4th,AI/ML,2025-05-25,Completed
+MITS0300,David,IT,3rd,AI/ML,2025-04-06,Completed
